@@ -1,0 +1,8 @@
+{
+  "domain": "mitemp_cgg1",
+  "name": "Xiaomi CGG1 Thermometer Hygrometer",
+  "documentation": "https://github.com/kalininandreyvictorovich/mitemp_cgg1-home-assistant",
+  "dependencies": [],
+  "codeowners": ["@kalininandreyvictorovich"],
+  "requirements": ["mitemp_cgg1>=0.0.1"]
+}

@@ -4,5 +4,6 @@
   "documentation": "https://github.com/kalininandreyvictorovich/mitemp_cgg1-home-assistant",
   "dependencies": [],
   "codeowners": ["@kalininandreyvictorovich"],
-  "requirements": ["mitemp_cgg1>=0.0.1"]
+  "requirements": ["mitemp_cgg1>=0.0.1"],
+  "version": "0.2.0"
 }

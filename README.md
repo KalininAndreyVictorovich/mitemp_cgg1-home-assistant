@@ -1,6 +1,7 @@
 # Home-Assistant sensor Xiaomi Mi Temperature and Humidity Sensor with Bleutooth LE and E-Ink display  
 
-**WORK IN PROGRESS**
+**Obsolete**  
+Home Assistant since 2022.8 supports xiaomi ble sensors natively, no more need for custom component.
 
 This library lets you read sensor data from a Xiaomi Mi Bluetooth LE Temperature and Humidity sensor.
 
